@@ -9,3 +9,8 @@ AccountId,MeterReadingDateTime,MeterReadValue
 2233,22/04/2019 12:25,00323
 8766,22/04/2019 12:25,03440
 ```
+
+#### Useful database commands
+```
+dotnet ef database update InitialCreate
+```
